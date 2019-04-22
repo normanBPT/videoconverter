@@ -1,0 +1,7 @@
+{
+  "streamConfig": {
+    "host": "assets/videos/" ,
+    "host_backup": "rtmp://202.61.66.106/vod/",
+    "port": 8889
+  }
+}
